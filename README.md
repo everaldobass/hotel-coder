@@ -5,7 +5,10 @@
 
 ### Links
 - Google Fonts - https://fonts.google.com/specimen/Roboto
-- Font Awesome - https://fontawesome.com/v4.7/get-started/
+- CSS-Tricks - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+- Color - https://www.colourlovers.com/
+- Gradient - https://cssgradient.io/
+- Pexels - https://www.pexels.com/pt-br/
 
 
 Projeto desenvolvido **Hotel - Coder** com as tecnológias HTML5, CSS3, com o objetivo de fixar os conhecimento de Flexbox. 
