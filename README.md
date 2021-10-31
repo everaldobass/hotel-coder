@@ -11,18 +11,27 @@
 - Pexels - https://www.pexels.com/pt-br/
 
 
-Projeto desenvolvido **Hotel - Coder** com as tecnológias HTML5, CSS3, com o objetivo de fixar os conhecimento de Flexbox. 
+Projeto desenvolvido **Hotel - Coder** com as tecnológias HTML5, CSS3, com o objetivo de fixar os conhecimentos de Flexbox. 
+
+# Páginas do Projeto.
+## Home
 
 <img src='./hotel-coder/img/home.png ' width='100%'/>
 
+## Sobre
+
 <img src='./hotel-coder/img/sobre.png ' width='100%'/>
 
+## Reserva
+
 <img src='./hotel-coder/img/reserva.png ' width='100%'/>
+
+## Contato
 
 <img src='./hotel-coder/img/contato.png ' width='100%'/>
 
 
-# Curso de Flexbox #1 - Introdução
+# Conteúdo do Curso de Flexbox. 
 
 ## Propriedades
 ### Aplicar as propriedades na class container 
